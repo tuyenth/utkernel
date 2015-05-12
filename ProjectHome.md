@@ -1,0 +1,2 @@
+μT-Kernel is a real-time operating system (RTOS) designed for 16-bit, 8-bit microcontrollers. μT-Kernel is standardized by T-Engine Forum.
+The objective of this project is to port μT-Kernel to various microcontroller platforms (16-bits, 8-bits).
